@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>DIFFENRTr</h1>
+            <h1>Hello Bootstrap THis is a test </h1>
           </hgroup>
 
 
