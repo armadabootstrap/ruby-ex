@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Hello Bootstrapa THis is a test1 </h1>
+            <h1>Hello Bootstrapa 1THis is a test1 </h1>
           </hgroup>
 
 
